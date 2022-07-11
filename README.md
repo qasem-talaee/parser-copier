@@ -19,7 +19,7 @@ pip install virtualenv
 - In linux
 
 ```
-sudo apt install python3-pip python3-venv unixodbc unixodbc-dev
+sudo apt install python3-pip python3-venv unixodbc unixodbc-dev python3-tk
 ```
 
 Then
