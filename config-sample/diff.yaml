@@ -1,0 +1,25 @@
+Separator : t
+Type : txt
+File : G:\Qasem Talaee\project\parser\test\text.txt
+Send-Type : sql
+SQL-SERVER : server
+SQL-DATABASE : databse
+SQL-Table : data
+Table-Name-MDB : data
+Send-API : 172.0/logsheet.php
+Data :
+  - 2
+  - 3
+  - 4
+  - 5
+Names :
+  - pi
+  - fi
+  - mi
+  - si
+Check :
+  - 0
+  - 1
+Date-Format : '%Y-%m-%d %H:%M:%S'
+Ignore-Row :
+  - 0
